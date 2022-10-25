@@ -1,4 +1,4 @@
-<h2 align="centre">Ryzen Music</h2>
+<h2 align="centre">Ryzen Music Player</h2>
 
 <p align="center">
   <img src="https://telegra.ph//file/f862d1c60800308f7a26f.jpg">
