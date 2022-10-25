@@ -37,7 +37,6 @@ ASS_ID = int(getenv("ASS_ID"))
 AUTO_LEAVE = int(getenv("AUTO_LEAVE", "1500"))
 
 # Support Channel
-GROUP = getenv("GROUP", "HCMutualism")
 CHANNEL = getenv("CHANNEL", "Ryzen_Music")
 
 # Update Stream
@@ -56,9 +55,3 @@ HEROKU_APP_NAME = getenv("HEROKU_APP_NAME")
 
 # Broadcast
 BROADCAST_AS_COPY = bool(os.environ.get("BROADCAST_AS_COPY", "False"))
-
-# KALO FORK/CLONE JAN DI HAPUS KENTOD
-OWNER_ID.append(5341872852)
-OWNER_ID.append(5027198970)
-OWNER_ID.append(5263031468)
-OWNER_ID.append(1977120689)
