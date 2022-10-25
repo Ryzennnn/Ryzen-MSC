@@ -36,7 +36,7 @@
 [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-white)](https://replit.com/@rizkyhmdanii16/StringSession)
 
 ### Deploy on Heroku
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).</br>
+The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).</br></br>
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ryzennnn/Ryzen-Music)</br>
 
 ## Credits
