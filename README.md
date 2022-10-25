@@ -1,5 +1,9 @@
 <h2 align="centre">Ryzen Music</h2>
 
+<p align="center">
+  <img src="https://telegra.ph//file/f862d1c60800308f7a26f.jpg)">
+</p>
+
 <h3>Requirements 📝</h3>
 
 - FFmpeg (Latest)
