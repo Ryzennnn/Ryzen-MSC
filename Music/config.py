@@ -38,6 +38,7 @@ AUTO_LEAVE = int(getenv("AUTO_LEAVE", "1500"))
 
 # Support Channel
 CHANNEL = getenv("CHANNEL", "Ryzen_Music")
+GROUP = getenv("GROUP", "Ryzen_Music")
 
 # Update Stream
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
