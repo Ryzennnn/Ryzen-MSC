@@ -41,7 +41,7 @@ CHANNEL = getenv("CHANNEL", "Ryzen_Music")
 GROUP = getenv("GROUP", "Ryzen_Music")
 
 # Update Stream
-UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
+UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
 REPO_URL = getenv("REPO_URL", "https://github.com/Ryzenstd/Ryzen-Music")
 GIT_TOKEN = getenv(
     "GIT_TOKEN",
